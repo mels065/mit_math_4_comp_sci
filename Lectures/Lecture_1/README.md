@@ -19,7 +19,7 @@ A <ins>***mathematical proof***</ins> is a verification of a <ins>***proposition
 
 *Ex.* **2 + 3 = 5**
 
-*Ex.* **$\forall$n$\in$$\mathbb{N}$, n<sup>2</sup>+n+41** is a prime number
+*Ex.* **$\forall$ n $\in$ $\mathbb{N}$, n<sup>2</sup> + n + 41** is a prime number
 
 **$\forall$** = For all
 
@@ -44,28 +44,26 @@ n<sup>2</sup>+n+41** is a prime number = Predicate
 
 **40<sup>2</sup>+40+41=1681**
 
-*Ex.* **a<sup>4</sup>+b<sup>4</sup>+c<sup>4</sup>=d<sup>4</sup>** has no positive integer solutions.
+*Ex.* **a<sup>4</sup>+b<sup>4</sup>+c<sup>4</sup>=d<sup>4</sup>** has no positive integer solutions. (False, allegedly)
 
 a = **95,800**
 b = **217,519**
 c = **414,560**
 d = **422,481**
 
-*Revision:* **$\exists$a,b,c,d$\in$$\mathbb{N}$<sup>+</sup>, a<sup>4</sup>+b<sup>4</sup>+c<sup>4</sup>=d<sup>4</sup>**
+*Revision:* **$\exists$ a, b, c, d $\in$ $\mathbb{N}$<sup>+</sup>, a<sup>4</sup> + b<sup>4</sup> + c<sup>4</sup> = d<sup>4</sup>**
 
 **$\exists$** = There exists
 
 $\mathbb{N}$<sup>+</sup>: Positive natural numbers
 
-*Ex.* **313(x<sup>3</sup>+y<sup>3</sup>=z<sup>3</sup>** has no positive integer solutions (**False**)
-
-We need to figure out proofs because security depends on effective cryptography.
+*Ex.* **313(x<sup>3</sup> + y<sup>3</sup>) = z<sup>3</sup>** has no positive integer solutions (**False**)
 
 *Ex.* The regions in any map can be colored in 4 colors so that adjacent regions have different colors. (conjectured by Guthrie in *1853*; proved by Appel & Haken in 1977)
 
 *Ex.* Every even integer but 2 is the sum of two primes.
 
-**24=11+13**
+**24 = 11 + 13**
 
 **$\forall$ $\in$ $\mathbb{Z}$, n $\geq$ 2 $\rightarrow$ n<sup>2</sup> $\geq$ 4**
 
@@ -82,11 +80,11 @@ F | F | T                | T                     | T
 
 pigs fly $\rightarrow$ I'm king = True
 
-Ex. **$\forall$n$\in$$\mathbb{Z}$, n $\geq$  2 $\leftrightarrow$ n<sup>2</sup> $\geq$** 4 (False)
+Ex. **$\forall$ n $\in$ $\mathbb{Z}$, n $\geq$  2 $\leftrightarrow$ n<sup>2</sup> $\geq$** 4 (False)
 
 *Def:* An axiom is a proposition that is "assumed" to be true.
 
-*Ex.* If **a=b & b=c, a=c**
+*Ex.* If **a = b & b = c, a = c**
 
 *Euclidean Geometry:* Given a line L & a pt. p not on L, there is a line through p parallel to L.
 
